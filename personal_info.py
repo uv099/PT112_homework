@@ -1,0 +1,6 @@
+name = input("Nhập tên của bạn:")
+print (f"Họ và tên:{name}")   
+age = input("Nhập tuổi của bạn:")
+print (f"Tuổi:{age}")
+address = input ("Nhập địa chỉ của bạn:")
+print (f"Địa chỉ:{address}")
